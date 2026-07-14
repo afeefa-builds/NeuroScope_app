@@ -118,7 +118,7 @@ Both values are automatically fed into the model alongside the lifestyle inputs.
 
 ## 📄 License
 
-Add your preferred license here (e.g. MIT).
+This project is released under the MIT License and is intended for educational, research, and portfolio purposes.
 
 ---
 
